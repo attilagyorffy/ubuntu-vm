@@ -11,4 +11,4 @@ sudo apt-add-repository ppa:chris-lea/node.js
 sudo apt-get update
 
 # Install Ruby 2.0 from the Brightbox PPA and the latest Node from Chris Lea's PPA
-sudo apt-get -y install ruby2.0 nodejs
+sudo apt-get -y install ruby2.1 nodejs
